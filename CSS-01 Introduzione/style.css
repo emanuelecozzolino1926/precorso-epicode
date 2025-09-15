@@ -29,3 +29,17 @@ body{
     margin-top: 0px;
     margin-bottom: 0px;
 }
+
+.autore{
+    font-style: italic;
+    font-weight: 600;
+}
+
+.luoghi{
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(to right, #123456, #abcdef);
+}
