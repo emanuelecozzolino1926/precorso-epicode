@@ -15,6 +15,51 @@ body{
 
 }
 
+.image-container2{
+    height: 500px;
+    background-image: url('https://a.travel-assets.com/findyours-php/viewfinder/images/res70/350000/350201-Posillipo.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.image-container3{
+    height: 500px;
+    background-image: url('https://www.trovaspiagge.it/wp-content/uploads/2009/04/spiaggia-mergellina-5.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.image-container4{
+    height: 500px;
+    background-image: url('https://www.itagnol.com/wp-content/uploads/2016/01/via_Toledo_N%C3%A1poles.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.image-container5{
+    height: 500px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/P.Plebiscito_Napoli.jpg/1200px-P.Plebiscito_Napoli.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.image-container6{
+    height: 500px;
+    background-image: url('https://www.ecodellesirenetour.it/wp-content/uploads/2020/09/panoramica-san-carlo.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+footer{
+    background-color: black;
+    padding: 16px;
+}
+
+.footer-color{
+    color: white;
+}
+
+
 .citta-title{
     font-family: Prata;
     font-size: 64px;
@@ -42,4 +87,21 @@ body{
     color: white;
     border-radius: 6px;
     background: linear-gradient(to right, #123456, #abcdef);
+}
+
+.luoghi-list{
+    padding: 0;
+    list-style: none;
+}
+
+li{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 22px;
+    border-bottom: solid 1px #dfdfdf;
+}
+
+.li-style{
+     text-decoration: none;
+     color: #123456;
 }
