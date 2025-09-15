@@ -5,3 +5,17 @@ body{
 .main-section{
     padding: 20px;
 }
+
+.image-container{
+    height: 500px;
+    background-image: url('https://www.campania.info/wp-content/uploads/sites/111/napoli.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+.citta-title{
+    font-family: Prata;
+    font-size: 64px;
+    font-weight: 400;
+}
