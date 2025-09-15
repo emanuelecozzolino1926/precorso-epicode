@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    font-family: Montserrat;
 }
 
 .main-section{
@@ -18,4 +19,13 @@ body{
     font-family: Prata;
     font-size: 64px;
     font-weight: 400;
+    margin-bottom: 0px;
+}
+
+.citta-subtitle{
+    font-family: Prata;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
